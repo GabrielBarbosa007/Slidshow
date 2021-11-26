@@ -7,3 +7,11 @@
   
 </video>
 
+
+
+
+
+
+
+
+Obs: Não postei as imagens por se tratar de um projeto de trabalho, que foi pago por uma ui/ux designer e não fui autorizado a postar as imagens. 
