@@ -1,0 +1,98 @@
+/* Seletor  */
+*{ 
+margin:0;
+padding: 0; 
+}
+
+ /* Corpo do documento & fundo  */
+body{ 
+
+background: linear-gradient(90deg, rgba(230,230,230,1) 100%, rgba(251,247,251,1) 100%);
+ 
+}
+
+/*  Título nav */
+.nav{
+
+    position: relative;
+    display: flex;
+    justify-content: center;
+    top: 110px;
+    font-family: monospace;
+    font-size: 35px;
+    color: #000000;
+
+}
+
+ /*Botão de rolagem D & E./  Imagens  */
+
+.container-slide{ 
+    display: flex;
+    justify-content: space-between;
+    width: 50vw;
+    height: 50vh;
+    background-color: #000000 ;
+    margin: 20vh auto;
+    border-radius: 14px;
+    box-shadow: 2px 20px 37px #000000;
+    border: 0px solid black;
+
+}
+
+
+.container-items { 
+    position: absolute;
+    display: flex;
+    width: 50vw;
+    height: 50vh;
+    border-radius: 10px;
+   
+
+}
+
+.item{
+
+    width: 50vw;
+    height: 50vh;
+    transition: all 4s;
+    
+}
+
+.item:first-child{ 
+
+    margin-left: -100%;
+
+}
+
+
+
+.item img { 
+
+    width: 50vw;
+    height: 50vh;
+    border-radius: 10px;
+
+}
+
+.action-button{ 
+
+    font: bold 30px sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    color: #00000000;
+    user-select: none;
+    z-index: 1;
+
+}
+
+.action-button:hover{
+
+    color:#ffffff;
+    background-color: #00000099;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 4s;
+
+}
