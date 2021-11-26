@@ -1,14 +1,11 @@
 # Slidshow
 
-
-
+Este é um slidshow  simples e responsivo feito em HTML , CSS e JS.
+Projetos reais de uma UI/UX desiger. 👏 🚀 
 
 
 
 https://user-images.githubusercontent.com/86196288/143624879-dc85ae62-8a9c-4d10-a900-1d9c776ba9a2.mov
-
-
-
 
 
 
