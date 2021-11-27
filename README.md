@@ -11,4 +11,5 @@ https://user-images.githubusercontent.com/86196288/143624879-dc85ae62-8a9c-4d10-
 
 
 
-Obs: Não postei as imagens por não ter resposta se poderia ser ou não. Este projeto foi feito para uma UI/Ux designer. 
+Obs: Não postei as imagens por não ter resposta se poderia ou não. 
+Este projeto foi feito para uma UI/Ux designer. 
